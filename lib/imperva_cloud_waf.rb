@@ -4,6 +4,8 @@ module ImpervaCloudWaf
   class Error < StandardError; end
 
   # Your code goes here...
+
+  # https://support.incapsula.com/hc/en-us/articles/200627570-Whitelist-Incapsula-IP-addresses-Setting-IP-restriction-rules
   def self.trusted_proxies
     %w(
       199.83.128.0/21
