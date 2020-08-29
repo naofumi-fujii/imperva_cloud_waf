@@ -22,7 +22,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add line To Your Rails App
+
+```ruby
+config.action_dispatch.trusted_proxies = ImpervaCloudWaf.trusted_proxies
+```
 
 ## Development
 
