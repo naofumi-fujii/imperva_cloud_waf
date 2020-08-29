@@ -4,6 +4,6 @@ RSpec.describe ImpervaCloudWaf do
   end
 
   it "does something useful" do
-    expect(false).to eq(true)
+    expect(ImpervaCloudWaf.trusted_proxies.any? { |ip| ip === "198.143.33.4" }).to eq(true)
   end
 end
