@@ -18,6 +18,7 @@ module ImpervaCloudWaf
       107.154.0.0/16
       45.60.0.0/16
       45.223.0.0/16
+      2a02:e980::/29
     ).map { |addr| IPAddr.new(addr) }
   end
 end
