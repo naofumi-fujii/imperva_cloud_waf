@@ -2,6 +2,8 @@
 
 list of `Whitelist Incapsula IP addresses` into gem
 
+## link
+
 Whitelist Incapsula IP addresses & Setting IP restriction rules – Incapsula Support https://support.incapsula.com/hc/en-us/articles/200627570-Whitelist-Incapsula-IP-addresses-Setting-IP-restriction-rules
 
 ## Installation
