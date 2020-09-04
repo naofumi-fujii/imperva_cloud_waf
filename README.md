@@ -1,6 +1,6 @@
 # ImpervaCloudWaf
 
-list of `Whitelist Incapsula IP addresses` into gem
+list of `Whitelist Incapsula IP addresses`
 
 ## link
 
