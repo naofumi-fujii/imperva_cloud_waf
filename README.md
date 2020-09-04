@@ -1,8 +1,8 @@
 # ImpervaCloudWaf
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/imperva_cloud_waf`. To experiment with that code, run `bin/console` for an interactive prompt.
+list of `Whitelist Incapsula IP addresses` into gem
 
-TODO: Delete this and the text above, and describe your gem
+Whitelist Incapsula IP addresses & Setting IP restriction rules – Incapsula Support https://support.incapsula.com/hc/en-us/articles/200627570-Whitelist-Incapsula-IP-addresses-Setting-IP-restriction-rules
 
 ## Installation
 
