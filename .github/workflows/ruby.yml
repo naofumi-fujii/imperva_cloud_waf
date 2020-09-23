@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
     inputs:
       commit_ref:
-        description: 'commit_ref'
+        description: 'commit_ref(long hash)'
   push:
     branches: [ master ]
   pull_request:
