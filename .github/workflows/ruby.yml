@@ -12,7 +12,6 @@ on:
     inputs:
       commit_ref:
         description: 'commit_ref'
-        default: ${{ github.ref }}
   push:
     branches: [ master ]
   pull_request:
@@ -27,7 +26,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       with:
-        ref: ${{ github.event.inputs.commit_ref }}
+        ref: ${{ github.event.inputs.commit_ref || github.ref }}
     - name: Set up Ruby
     # To automatically get bug fixes and new Ruby versions for ruby/setup-ruby,
     # change this to (see https://github.com/ruby/setup-ruby#versioning):
