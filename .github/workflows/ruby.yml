@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
     inputs:
       ref:
-        description: 'ref(optional) ※long hash'
+        description: 'The branch, tag or SHA to checkout.'
   push:
     branches: [ master ]
   pull_request:
