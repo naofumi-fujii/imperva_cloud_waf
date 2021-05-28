@@ -4,7 +4,7 @@ list of `Whitelist Incapsula IP addresses`
 
 ## link
 
-Whitelist Incapsula IP addresses & Setting IP restriction rules – Incapsula Support https://support.incapsula.com/hc/en-us/articles/200627570-Whitelist-Incapsula-IP-addresses-Setting-IP-restriction-rules
+Imperva Documentation Portal https://docs.imperva.com/howto/c85245b7
 
 ## Installation
 
